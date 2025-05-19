@@ -1,1 +1,2 @@
-print("Hi")
+from extra import *
+hello()
