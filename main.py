@@ -1,2 +1,0 @@
-from extra import *
-hello()
